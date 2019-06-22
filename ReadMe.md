@@ -3,3 +3,4 @@
          人民币转换 (TransferChineseUpperMoney)
          字符串匹配 (JudgeAllCharExist)
          表示数字 (ExpressNum)
+         统计大写字母数量(GetUpperLetterNum)
