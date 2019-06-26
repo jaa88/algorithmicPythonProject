@@ -5,3 +5,5 @@
          表示数字 (ExpressNum)
          统计大写字母数量(GetUpperLetterNum)
          字符串运用-密码截取（GetPasswordMaxLength)
+         密码等级（GetPasswordSecureLevel)
+         求最大连续bit数(GetMaxBitNum)
