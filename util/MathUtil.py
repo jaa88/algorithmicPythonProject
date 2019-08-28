@@ -1,3 +1,4 @@
+
 # 求最大公约数
 def getMaxCommonDivisor(a, b):
     #保证a > b
@@ -17,3 +18,4 @@ def getMaxCommonDivisor(a, b):
 def getMinCommonMultiple(a,b):
     maxCommonDivisor=getMaxCommonDivisor(a,b)
     return int(a*b/maxCommonDivisor)
+
